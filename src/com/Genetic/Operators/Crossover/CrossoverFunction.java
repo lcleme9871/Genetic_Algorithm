@@ -12,7 +12,7 @@ import com.Genetic.Individual;
 /**
  * Cross over two individuals
  * 
- * @author Gordon Fraser
+ * @author Lee Clement
  */
 public abstract class CrossoverFunction implements Serializable
 {
