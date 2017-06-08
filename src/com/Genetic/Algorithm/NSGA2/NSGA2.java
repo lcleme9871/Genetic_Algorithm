@@ -33,7 +33,6 @@ import com.Genetic.util.*;
  * {2221582}, publisher = {IEEE Press}, address = {Piscataway, NJ, USA}}
  * 
  * @author lc
- * @author jose campos
  */
 
 public class NSGA2 extends GeneticAlgorithm {
