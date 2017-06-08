@@ -11,7 +11,7 @@ import java.util.LinkedList;
 
 /**
  *
- * @author Joseph Rivera
+ * @author Lee Clement
  */
 public class TestCaseNSGA2Listener implements GeneticListener
 {
