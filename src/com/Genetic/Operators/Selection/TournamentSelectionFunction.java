@@ -13,7 +13,7 @@ import com.Genetic.Individual;
 /**
  * Select an individual from a population as winner of a number of tournaments
  *
- * @author Gordon Fraser
+ * @author Lee Clement
  */
 public class TournamentSelectionFunction<T extends Individual> extends SelectionFunction<T>
 {
