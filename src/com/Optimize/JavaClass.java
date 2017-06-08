@@ -8,7 +8,7 @@ import java.util.Map;
 
 /**
  * Representation of a Java class code coverage.
- *
+ * @author Lee Clement
  * @author Jonathan Lermitage
  */
 public class JavaClass implements Comparable<JavaClass> {
